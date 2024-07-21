@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dhdorr
-- 👀 I’m interested in ... Gaining experience as a software engineer and web developer
-- 🌱 I’m currently learning ... React, Next.js, HTMX and more
+- 👀 I’m interested in ... Game development and Multiplayer game networking
+- 🌱 I’m currently learning ... Godot, Go lang, Zig lang, socket programming, distributed systems, and much more
 
-About Me: I am currently pursuing a Master's degree in Computer Science at California State University Fullerton. I am also working as a Junior Developer doing fullstack mainainence on a legacy system. I am preparing for a transition to fullstack development on cloud based progressive web apps, which should be interesting... But the end goal is to work in video game development.=!
+About Me: I am currently pursuing a Master's degree in Computer Science at Cal State Fullerton. I am also working as a Software Engineer, doing fullstack mainainence on a legacy system. But the end goal is to work in video game development!
 
 - 📫 How to reach me ... dhdorr@gmail.com
 
