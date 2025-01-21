@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dhdorr
-- 👀 I’m interested in ... Game development and Multiplayer game networking
+- 👋 Hi, I’m Derek!
+- 👀 I’m interested in ... Game development and Multiplayer game networking!
 - 🌱 I’m currently learning ... Godot, Go lang, Zig lang, socket programming, distributed systems, and much more
 
-About Me: I am currently pursuing a Master's degree in Computer Science at Cal State Fullerton. I am also working as a Software Engineer, doing fullstack mainainence on a legacy system. But the end goal is to work in video game development!
+About Me: I recently graduated wiht a Master's degree in Computer Science at Cal State Fullerton. I am looking for work as a game developer, I am very much interested in multiplayer game networking, server backends and game design.
 
 - 📫 How to reach me ... dhdorr@gmail.com
 
